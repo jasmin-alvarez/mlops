@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MLOps Zoomcamp
 
 <p align="center">
@@ -227,3 +228,6 @@ Thanks to the course sponsors for making it possible to create this course
 =======
 # mlops-zoomcamp
 >>>>>>> 7ecce5cf57ac4a0432a45317103c3438afe1fa6a
+=======
+
+>>>>>>> 71e375358416bff50327b75d993170e346ece4d9
