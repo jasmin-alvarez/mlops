@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # MLOps Zoomcamp
 
 <p align="center">
